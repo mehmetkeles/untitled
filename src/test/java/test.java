@@ -4,6 +4,7 @@ public class test {
         System.out.println("conflict2");
         System.out.println("conflict");
         System.out.println("comment in dev");
+        System.out.println("did something in dev2");
 
     }
 }
